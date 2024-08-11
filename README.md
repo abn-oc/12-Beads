@@ -1,5 +1,5 @@
 <h2>Download Link:</h2>
-<a target="_blank" href="https://drive.google.com/file/d/1_pk4fY0K1uHQsxn-pbOkF4yuMjsQOJ7F/view?usp=drive_link">Google Drive</a>
+<a href="https://drive.google.com/file/d/1_pk4fY0K1uHQsxn-pbOkF4yuMjsQOJ7F/view?usp=drive_link" target="_blank">Google Drive</a>
 
 <h2>Screenshots:</h2>
 <img width="402" alt="main_menu" src="https://github.com/user-attachments/assets/e623e624-9252-4d92-887e-9133e2845d46">
