@@ -1,5 +1,5 @@
 <h2>Download Link:</h2>
-<a href="https://drive.google.com/file/d/1aHUZht49xIsJD_458HcIvq2bRrWNRhIU/view?usp=sharing" target="_blank">Google Drive</a>
+<a href="https://drive.google.com/file/d/1gs0EI0wmPO-E9WW4C09Warqi5CshLxpa/view?usp=sharing" target="_blank">Google Drive</a> <p>password is 123</p>
 
 <h2>Screenshots:</h2>
 <img width="402" alt="main_menu" src="https://github.com/user-attachments/assets/e623e624-9252-4d92-887e-9133e2845d46">
